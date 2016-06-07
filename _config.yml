@@ -2,7 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           http://localhost:4000 
-relative_permalinks: true
 
 # Setup
 title:               我的博客
